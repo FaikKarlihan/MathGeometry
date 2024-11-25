@@ -1,0 +1,14 @@
+C:\Users\Toshiba\Documents\Sites\MathGeo\bin\Debug\net8.0\mathgeo.exe
+C:\Users\Toshiba\Documents\Sites\MathGeo\bin\Debug\net8.0\mathgeo.deps.json
+C:\Users\Toshiba\Documents\Sites\MathGeo\bin\Debug\net8.0\mathgeo.runtimeconfig.json
+C:\Users\Toshiba\Documents\Sites\MathGeo\bin\Debug\net8.0\mathgeo.dll
+C:\Users\Toshiba\Documents\Sites\MathGeo\bin\Debug\net8.0\mathgeo.pdb
+C:\Users\Toshiba\Documents\Sites\MathGeo\obj\Debug\net8.0\mathgeo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Documents\Sites\MathGeo\obj\Debug\net8.0\mathgeo.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Documents\Sites\MathGeo\obj\Debug\net8.0\mathgeo.AssemblyInfo.cs
+C:\Users\Toshiba\Documents\Sites\MathGeo\obj\Debug\net8.0\mathgeo.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Documents\Sites\MathGeo\obj\Debug\net8.0\mathgeo.dll
+C:\Users\Toshiba\Documents\Sites\MathGeo\obj\Debug\net8.0\refint\mathgeo.dll
+C:\Users\Toshiba\Documents\Sites\MathGeo\obj\Debug\net8.0\mathgeo.pdb
+C:\Users\Toshiba\Documents\Sites\MathGeo\obj\Debug\net8.0\mathgeo.genruntimeconfig.cache
+C:\Users\Toshiba\Documents\Sites\MathGeo\obj\Debug\net8.0\ref\mathgeo.dll
